@@ -1,11 +1,19 @@
 {
   "name": "shcherbakov_cv",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20210502-FE/shcherbakov_cv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/20210502-FE/shcherbakov_cv/issues"
+  },
+  "homepage": "https://github.com/20210502-FE/shcherbakov_cv#readme",
+  "description": ""
 }
